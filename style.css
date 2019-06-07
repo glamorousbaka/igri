@@ -1,0 +1,17 @@
+h1 {
+	font-family: arial
+}
+h2 {
+	font-family: arial
+}
+p {
+	font-family: arial
+}
+.all {
+	background-color: #258772;
+	height: 700px
+}
+.flex {
+	display: flex; 
+	background-color: white
+}
